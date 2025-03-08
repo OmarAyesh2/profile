@@ -6093,7 +6093,7 @@ a.text-theme:hover,
 }
 
 .main-menu ul li.menu-item-has-children > a:after {
-  content: "\f078";
+  content: "";
   position: relative;
   font-family: var(--icon-font);
   margin-left: 4px;
